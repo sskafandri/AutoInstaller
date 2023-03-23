@@ -23,6 +23,8 @@ chmod +x autoinstaller.sh
 
 * Script Features
 > cPanel
+> > Install cPanel
+> > 
 > > Server Tools
 > > > Change Nameserver \
 > > > Change Hostname \
@@ -68,20 +70,21 @@ chmod +x autoinstaller.sh
 > > > Clear /tmp
 > >
 > Plesk
-> > Install Plesk \
+> > Install Plesk
+> > 
 > > Server Tools
 > > > Change Nameserver \
 > > > Change Hostname \
 > > > Change SSH Port \
 > > > Change Password (root)
 > >
-> > Setup CSF \
+> > Setup CSF
 > > > CSF Configuration \
 > > > CSF Blocklists Configuration \
 > > > Unblock Telegram IPs \
 > > > Uninstall CSF
 > >
-> > Install Plugins \
+> > Install Plugins
 > > > Install LiteSpeed \
 > > > Install ImunifyAV \
 > > > Install Softaculous \
@@ -94,14 +97,15 @@ chmod +x autoinstaller.sh
 > > > Clear /tmp
 > >
 > aaPanel
-> > Install aaPanel \
+> > Install aaPanel
+> > 
 > > Server Tools
 > > > Change Nameserver \
 > > > Change Hostname \
 > > > Change SSH Port \
 > > > Change Password (root)
 > >
-> > Setup Management \
+> > Setup Management
 > > > Start aaPanel \
 > > > Stop aaPanel \
 > > > Restart aaPanel \
@@ -114,15 +118,55 @@ chmod +x autoinstaller.sh
 > > > View Error logs Site
 > >
 > > WebServer
-> > > Setup Nginx \
+> > > Setup Nginx
 > > > > Start Nginx \
 > > > > Stop Nginx \
 > > > > Restart Nginx \
 > > > > Reload Nginx \
 > > > > Status Nginx \
 > > > > Configuration Nginx \
-> > > > Open Directory Nginx \
+> > > > Open Directory Nginx
 > > > > 
-> > > Setup Nginx \
-
+> > > Setup Apache
+> > > > Start Apache \
+> > > > Stop Apache \
+> > > > Restart Apache \
+> > > > Reload Apache \
+> > > > Status Apache \
+> > > > Configuration Apache \
+> > > > Open Directory Apache
+> > Setup Mysql
+> > > Start Mysql \
+> > > Stop Mysql \
+> > > Restart Mysql \
+> > > Reload Mysql \
+> > > Status Mysql \
+> > > Change Password MySQL \
+> > > Configuration Mysql \
+> > > Open Directory Mysql \
+> > > Open Directory phpmyadmin \
+> > > Open Directory Data Storage
+> > Setup FTP
+> > > Start FTP \
+> > > Stop FTP \
+> > > Restart FTP \
+> > > Reload FTP \
+> > > Status FTP \
+> > > Configuration FTP \
+> > > Open Directory FTP \
+> > Setup Redis
+> > > Start Redis \
+> > > Stop Redis \
+> > > Restart Redis \
+> > > Status Redis \
+> > > Configuration Redis \
+> > > Open Directory Redis \
+> > Setup Memcached
+> > > Start Memcached \
+> > > Stop Memcached \
+> > > Restart Memcached \
+> > > Status Memcached \
+> > > Open Directory Memcached \
+> >
+>
 
