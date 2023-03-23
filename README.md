@@ -13,4 +13,9 @@ chmod +x autoinstaller.sh
 ./autoinstaller.sh
 ```
 
-## How to use the script
+### Support for operating systems
+| Operating system | Description |
+| --- | --- |
+| CentOS 7+ | Proposed operating system to install cPanel |
+| Debian 10+ | Proposed operating system to install Plask |
+| Ubuntu 20+ | Proposed operating system to install aaPanel |
