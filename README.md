@@ -175,13 +175,12 @@ chmod +x autoinstaller.sh
 > >
 > done
 
----
-📝Note :
-Before running the script, please connect to the servers that you want to backup through SSH, so that your session is created in `~/.ssh/known_hosts.`\
-Better to set up a cron job for the script to automatically backup
----
+****
 
-* [Developer](https://t.me/DevAtom)
+📝Note : If there is a problem with the script or problem, report it through my telegram, if you have a new idea you can share with me for the development and development of the script.
+
+
+* [Telegram](https://t.me/DevAtom)
 * [GitHub](https://github.com/DevAtomIR)
 
 
