@@ -21,7 +21,7 @@ chmod +x autoinstaller.sh
 | Ubuntu 20+ | Proposed operating system to install aaPanel and cPanel |
 
 
-* Script Features
+### Script Features 
 > cPanel
 > > Install cPanel
 > > 
@@ -135,6 +135,7 @@ chmod +x autoinstaller.sh
 > > > > Status Apache \
 > > > > Configuration Apache \
 > > > > Open Directory Apache
+> >
 > > Setup Mysql
 > > > Start Mysql \
 > > > Stop Mysql \
@@ -146,6 +147,7 @@ chmod +x autoinstaller.sh
 > > > Open Directory Mysql \
 > > > Open Directory phpmyadmin \
 > > > Open Directory Data Storage
+> >
 > > Setup FTP
 > > > Start FTP \
 > > > Stop FTP \
@@ -153,14 +155,16 @@ chmod +x autoinstaller.sh
 > > > Reload FTP \
 > > > Status FTP \
 > > > Configuration FTP \
-> > > Open Directory FTP \
+> > > Open Directory FTP
+> >
 > > Setup Redis
 > > > Start Redis \
 > > > Stop Redis \
 > > > Restart Redis \
 > > > Status Redis \
 > > > Configuration Redis \
-> > > Open Directory Redis \
+> > > Open Directory Redis
+> > > 
 > > Setup Memcached
 > > > Start Memcached \
 > > > Stop Memcached \
