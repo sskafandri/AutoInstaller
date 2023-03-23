@@ -166,7 +166,7 @@ chmod +x autoinstaller.sh
 > > > Stop Memcached \
 > > > Restart Memcached \
 > > > Status Memcached \
-> > > Open Directory Memcached \
-> >
+> > > Open Directory Memcached
+> > .
 > done
 
