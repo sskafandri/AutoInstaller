@@ -168,5 +168,5 @@ chmod +x autoinstaller.sh
 > > > Status Memcached \
 > > > Open Directory Memcached \
 > >
->
+> done
 
