@@ -40,7 +40,7 @@ RED='\033[0;31m'
 YELLOW='\033[0;33m'
 GREEN='\033[0;32m'
 NC='\033[0m'
-# Function for printing text in blue
+# Function to print text in colors
 print_b () {
   echo -e "${BLUE}$1${NC}"
 }
