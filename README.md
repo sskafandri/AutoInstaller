@@ -91,7 +91,6 @@ chmod +x autoinstaller.sh
 > > > Install SitePad
 > >
 > > Advanced Tools
-> > > Restore Backup \
 > > > Clear RAM Cache \
 > > > Delete all error_log \
 > > > Clear /tmp
